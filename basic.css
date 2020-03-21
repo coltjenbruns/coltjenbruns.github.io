@@ -2,3 +2,6 @@ body{
     background-color : dimgray;
     color:white;
 }
+div.a{
+    text-align: right;
+}
